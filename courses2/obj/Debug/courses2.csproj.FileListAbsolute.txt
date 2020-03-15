@@ -1,0 +1,7 @@
+C:\Users\Админ\Desktop\courses2\courses2\bin\Debug\courses2.exe.config
+C:\Users\Админ\Desktop\courses2\courses2\bin\Debug\courses2.exe
+C:\Users\Админ\Desktop\courses2\courses2\bin\Debug\courses2.pdb
+C:\Users\Админ\Desktop\courses2\courses2\obj\Debug\courses2.csprojAssemblyReference.cache
+C:\Users\Админ\Desktop\courses2\courses2\obj\Debug\courses2.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\courses2\courses2\obj\Debug\courses2.exe
+C:\Users\Админ\Desktop\courses2\courses2\obj\Debug\courses2.pdb
